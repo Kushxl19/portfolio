@@ -453,7 +453,7 @@ footer {
     }
     .about-side {
         min-width: unset;
-        width: auto;
+        width: 100%;
     }
     #contact-form {
         min-width: unset;
